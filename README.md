@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChaithanyaJ20
+- 👋 Hi, I’m @ChaithanyaJ
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning data structures and algorithm AND python
 - 😄 Pronouns: chaithu
