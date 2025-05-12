@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ChaithanyaJ
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning data structures and algorithm AND python
+- 👀 I’m interested in learning Web Development
+- 🌱 I’m currently learning Front-end development
 - 😄 Pronouns: chaithu
-- ⚡ Fun fact: i have started python today
 
 <!---
 ChaithanyaJ20/ChaithanyaJ20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
