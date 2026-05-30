@@ -1,4 +1,5 @@
-<img width="1080" height="408" alt="IMG_20260530_112716" src="https://github.com/user-attachments/assets/75e48a69-6037-4da9-97b9-7c9d869d9f3b" />
+<img width="1080" alt="Banner" src="https://github.com/user-attachments/assets/75e48a69-6037-4da9-97b9-7c9d869d9f3b" />
+
 <h1 align="center">Hi 👋, I'm Janjam Chaithanya</h1>
 
 <h3 align="center">Aspiring Software Engineer | DSA Enthusiast | AI Explorer</h3>
@@ -8,30 +9,35 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChaithanyaJ20&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ChaithanyaJ20&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-8.51-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AP%20EAPCET%20Rank-1419-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-470%2B-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at JNTUK (2023-2027)
-- 📈 Current CGPA: **8.51**
-- 💻 Solved **470+ Coding Problems**
-- 🌱 Currently learning **Java, DSA, DBMS and System Design**
-- 🤖 Interested in **Software Engineering and Artificial Intelligence**
-- 🚀 Building practical projects to strengthen development skills
-- 🎯 Goal: Crack top product-based company placements and excel in GATE 2027
+- 🎓 B.Tech CSE Student at JNTUK (2023–2027)
+- 💻 Solved 470+ Coding Problems
+- 🌱 Learning Java, DSA, DBMS and System Design
+- 🤖 Interested in Software Engineering and AI
+- 🚀 Building practical projects to improve development skills
+- 🎯 Goal: Secure a Software Engineer role and excel in GATE 2027
 
 ---
 
 ## 🎯 Current Focus
 
 - 📚 GATE 2027 Preparation
-- 💻 Strengthening DSA using Java
-- 🚀 Building Real-World Projects
-- 🤖 Exploring AI Applications
-- 📖 Improving Core CS Fundamentals
+- 💻 Data Structures & Algorithms
+- ☕ Java Development
+- 🤖 AI Applications
+- 📖 Core Computer Science Fundamentals
 
 ---
 
@@ -45,32 +51,31 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Assisted Career Recommendation System
-
-- Developed a recommendation engine that analyzes user skills and suggests relevant career paths.
-- Used TF-IDF Vectorization and Cosine Similarity.
-- Built using Python, Scikit-Learn, Pandas, HTML, CSS and JavaScript.
-
-### 🍔 Foodsy
-
-- Co-founded a simple food delivery web application.
-- Focused on user-friendly ordering workflow and design.
-
-### ✅ To-Do List Web App
-
-- Built a responsive task management application.
-- Implemented Local Storage for persistent data.
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🤖 AI-Assisted Career Recommendation System | Career recommendations using TF-IDF & Cosine Similarity | Python, Scikit-Learn, Pandas |
+| 🍔 Foodsy | Food delivery web application | HTML, CSS, JavaScript |
+| ✅ To-Do List Web App | Task management app with Local Storage | HTML, CSS, JavaScript |
 
 ---
 
 ## 💻 Coding Profiles
 
-| Platform | Problems Solved |
-|----------|----------------|
-| Code360 | 350+ |
-| LeetCode | 50+ |
-| GeeksforGeeks | 70+ |
-| Total | 470+ |
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-50%2B-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/chaithanyadzg9/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-70%2B-green?style=for-the-badge&logo=geeksforgeeks" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Code360-350%2B-blue?style=for-the-badge" />
+</a>
+
+</p>
 
 ---
 
@@ -78,7 +83,7 @@
 
 - 🥇 AP EAPCET 2023 Rank 1419
 - 🥈 NPTEL Programming in Java (Silver - 77%)
-- 🚀 Participated in GenAI & Agentic AI Workshop at BITS Pilani Hyderabad
+- 🚀 GenAI & Agentic AI Workshop at BITS Pilani Hyderabad
 - 💻 Solved 470+ Coding Problems
 
 ---
@@ -94,15 +99,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChaithanyaJ20&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChaithanyaJ20&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaithanyaJ20&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaithanyaJ20&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaithanyaJ20&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaithanyaJ20&layout=compact&theme=tokyonight" />
 </p>
 
 ---
