@@ -3,54 +3,46 @@
 <h3 align="center">Aspiring Software Engineer | DSA Enthusiast | AI Explorer</h3>
 
 <p align="center">
-🎓 B.Tech CSE @ JNTUK (2023-2027) <br>
-💡 Passionate about Problem Solving, Software Development and AI <br>
-🚀 Building Projects & Strengthening Core CS Fundamentals
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;DSA+Enthusiast;AI+Explorer;Building+Projects+and+Learning+Everyday;Preparing+for+GATE+2027" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChaithanyaJ20&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at JNTUK
+- 🎓 B.Tech CSE Student at JNTUK (2023-2027)
 - 📈 Current CGPA: **8.51**
+- 💻 Solved **470+ Coding Problems**
 - 🌱 Currently learning **Java, DSA, DBMS and System Design**
-- 💻 Solved **470+ coding problems** across platforms
-- 🤖 Interested in **Artificial Intelligence and Software Engineering**
-- 🎯 Goal: Secure a Software Engineer role and excel in GATE 2027
-- ⚡ Fun Fact: I enjoy building practical projects and learning through implementation
+- 🤖 Interested in **Software Engineering and Artificial Intelligence**
+- 🚀 Building practical projects to strengthen development skills
+- 🎯 Goal: Crack top product-based company placements and excel in GATE 2027
+
+---
+
+## 🎯 Current Focus
+
+- 📚 GATE 2027 Preparation
+- 💻 Strengthening DSA using Java
+- 🚀 Building Real-World Projects
+- 🤖 Exploring AI Applications
+- 📖 Improving Core CS Fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### CS Fundamentals
-
-- Object Oriented Programming
-- Operating Systems
-- DBMS
-- FLAT
-- Compiler Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,git,github,vscode,mysql" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI-Assisted Career Recommendation System
 
@@ -61,13 +53,12 @@
 ### 🍔 Foodsy
 
 - Co-founded a simple food delivery web application.
-- Focused on user experience and ordering workflow.
+- Focused on user-friendly ordering workflow and design.
 
 ### ✅ To-Do List Web App
 
-- Task creation, completion and deletion functionality.
-- Local Storage integration for persistence.
-- Responsive user interface.
+- Built a responsive task management application.
+- Implemented Local Storage for persistent data.
 
 ---
 
@@ -78,22 +69,23 @@
 | Code360 | 350+ |
 | LeetCode | 50+ |
 | GeeksforGeeks | 70+ |
+| Total | 470+ |
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 AP EAPCET 2023 Rank 1419
-- 🥈 NPTEL Programming in Java - 77% (Silver)
+- 🥈 NPTEL Programming in Java (Silver - 77%)
 - 🚀 Participated in GenAI & Agentic AI Workshop at BITS Pilani Hyderabad
-- 💻 Solved 470+ coding problems
+- 💻 Solved 470+ Coding Problems
 
 ---
 
 ## 📜 Certifications
 
 - NPTEL Programming in Java (Silver)
-- Embedded Systems Design - NPTEL
+- NPTEL Embedded Systems Design
 - GenAI & Agentic AI Workshop - BITS Pilani Hyderabad
 
 ---
@@ -101,29 +93,57 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ChaithanyaJ20&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChaithanyaJ20&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaithanyaJ20&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaithanyaJ20&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaithanyaJ20&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaithanyaJ20&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-📧 Email: chaithanyajanjam@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/chaithanya-janjam-46b16b317
-
-🐙 GitHub: https://github.com/ChaithanyaJ20
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaithanyaJ20&theme=tokyonight&row=1&column=7" />
+</p>
 
 ---
 
+## 📈 Contribution Graph
+
+[![Chaithanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChaithanyaJ20&theme=tokyo-night)](https://github.com/ChaithanyaJ20)
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  <a href="https://github.com/ChaithanyaJ20">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/chaithanya-janjam-46b16b317">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:chaithanyajanjam@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+### 💡 Consistency Beats Motivation
+
+Code • Learn • Build • Repeat
+
+⭐ Thanks for visiting my profile!
+
+</div>
