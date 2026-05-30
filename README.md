@@ -1,3 +1,4 @@
+<img width="1080" height="408" alt="IMG_20260530_112716" src="https://github.com/user-attachments/assets/75e48a69-6037-4da9-97b9-7c9d869d9f3b" />
 <h1 align="center">Hi 👋, I'm Janjam Chaithanya</h1>
 
 <h3 align="center">Aspiring Software Engineer | DSA Enthusiast | AI Explorer</h3>
