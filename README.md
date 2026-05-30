@@ -58,23 +58,26 @@
 | ✅ To-Do List Web App | Task management app with Local Storage | HTML, CSS, JavaScript |
 
 ---
-
 ## 💻 Coding Profiles
 
 <p align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-90%2B-orange?style=for-the-badge&logo=leetcode" />
+<a href="https://leetcode.com/u/ChaithanyaJanjam/" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="55" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/chaithanyadzg9/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-70%2B-green?style=for-the-badge&logo=geeksforgeeks" />
+<a href="https://www.geeksforgeeks.org/profile/chaithanydzg9" target="_blank">
+<img src="https://img.icons8.com/color/96/GeeksforGeeks.png" height="55" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Code360-350%2B-blue?style=for-the-badge" />
+<a href="https://www.naukri.com/code360/profile/45eb867b-414b-4d61-9db7-3601f819950c" target="_blank">
+<img src="https://files.codingninjas.in/website_v2/cnlogo-35956.svg" height="55" />
 </a>
 
+</p>
+
+<p align="center">
+🔥 470+ Problems Solved Across Platforms
 </p>
 
 ---
