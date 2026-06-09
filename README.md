@@ -64,7 +64,7 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/ChaithanyaJanjam/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-90%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-100%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/chaithanydzg9" target="_blank">
