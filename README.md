@@ -54,8 +54,8 @@
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
 | 🤖 AI-Assisted Career Recommendation System | Career recommendations using TF-IDF & Cosine Similarity | Python, Scikit-Learn, Pandas |
-| 🍔 Foodsy | Food delivery web application | HTML, CSS, JavaScript |
-| ✅ To-Do List Web App | Task management app with Local Storage | HTML, CSS, JavaScript |
+| 📊 Todo Dashboard with Analytics | Full-stack productivity dashboard featuring task management, PostgreSQL persistence, REST APIs, and visual analytics through interactive charts | React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, Recharts |
+
 
 ---
 
