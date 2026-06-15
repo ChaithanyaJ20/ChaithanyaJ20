@@ -55,7 +55,7 @@
 |----------|-------------|------------|
 | 🤖 AI-Assisted Career Recommendation System | Career recommendations using TF-IDF & Cosine Similarity | Python, Scikit-Learn, Pandas |
 | 📊 Todo Dashboard with Analytics | Full-stack productivity dashboard featuring task management, PostgreSQL persistence, REST APIs, and visual analytics through interactive charts | React.js, Node.js, Express.js, PostgreSQL, Tailwind CSS, Recharts |
-
+| 🌤️ Weather Dashboard | Real-time weather application featuring forecasts, city comparison, favorite cities, geolocation weather, dark mode, and temperature trend analytics | React.js, Vite, Tailwind CSS, Axios, Recharts, Open-Meteo API |
 
 ---
 
