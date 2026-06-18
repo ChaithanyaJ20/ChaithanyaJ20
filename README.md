@@ -83,6 +83,7 @@
 
 - 🥇 AP EAPCET 2023 Rank 1419
 - 🥈 NPTEL Programming in Java (Silver - 77%)
+- ⚙️ NPTEL Programming in Embedded Systems Design
 - 🚀 GenAI & Agentic AI Workshop at BITS Pilani Hyderabad
 - 💻 Solved 470+ Coding Problems
 
