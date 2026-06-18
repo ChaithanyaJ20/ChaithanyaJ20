@@ -138,8 +138,11 @@
   <a href="mailto:chaithanyajanjam@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
 
+  <a href="https://www.instagram.com/chaithanya_nani_/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 ---
 
 <div align="center">
